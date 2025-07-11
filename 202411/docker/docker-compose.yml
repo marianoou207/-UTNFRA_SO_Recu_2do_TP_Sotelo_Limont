@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  web2sotelo:
+    image: marianoou207/web2-sotelo:latest
+    container_name: web2sotelo
+    ports:
+      - "81:80"
+    volumes:
+      - ./web/file:/usr/share/nginx/html/file

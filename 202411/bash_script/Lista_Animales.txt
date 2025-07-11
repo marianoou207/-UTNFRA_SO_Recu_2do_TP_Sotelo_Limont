@@ -1,0 +1,5 @@
+gato:mamifero:TM
+perro:mamifero:TM
+gallina:oviparo:TO
+pato:oviparo:TO
+ballena:acuatico:AG

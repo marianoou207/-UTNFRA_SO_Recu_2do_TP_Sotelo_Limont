@@ -1,0 +1,9 @@
+---
+- name: TP Ansible - Mariano Sotelo
+  hosts: localhost
+  become: yes
+  roles:
+    - 2PRecuperatorio
+    - Crea_Carpetas_sotelo
+    - Cambia_Propiedad_sotelo
+    - Sudoers_sotelo

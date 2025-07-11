@@ -1,0 +1,4 @@
+mnombre de usuario: marianoou207
+ID de usuario: 1000
+hash pass de usuario: $6$k.4WuoiSWz2DQQCc$.WzHb/YaEEZClOdnGlGWcEMklxNc6BDAW1yMeUMLV44uYrJKF2BlvoRuQg.MXPZRIX1MmJH4ndWhEggCSOtg2/
+
