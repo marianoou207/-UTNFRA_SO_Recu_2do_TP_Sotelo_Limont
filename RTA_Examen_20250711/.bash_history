@@ -7,7 +7,6 @@ sudo apt install tree -y
 sudo apt install docker.io -y
 sudo systemctl enable docker
 sudo systemctl start docker
-# Agregar el usuario al grupo docker para no usar sudo siempre
 sudo usermod -aG docker msotelo
 sudo apt install software-properties-common -y
 sudo apt-add-repository --yes --update ppa:ansible/ansible
@@ -106,4 +105,3 @@ cd ~/UTNFRA_SO_Recu_2do_TP_Sotelo_Limont
 tree -a -L 3
 ~/UTNFRA_SO_Recu_2do_TP_Sotelo_Limont/
 cp -r ~/RTA_Examen_20250711 ~/UTNFRA_SO_Recu_2do_TP_Sotelo_Limont/
-history -a
